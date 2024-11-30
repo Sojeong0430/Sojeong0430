@@ -1,4 +1,4 @@
-## Hi there 👋
+## LeeSojeong's repository 👋
 
 <!--
 **Sojeong0430/Sojeong0430** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
