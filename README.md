@@ -4,9 +4,9 @@
     </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요, 서버 개발자 이소정입니다 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 안녕하세요, 서버 개발자 이소정입니다 👏</h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
-        끊임없는 성장과 변화를 추구하는 백엔드 개발자 이소정입니다.   
+        끊임없는 성장과 변화를 추구하는 백엔드 개발자 이소정입니다.</br>
         도전 속에서 배우고, 배운 것을 기록하며 더 나은 개발자가 되기 위해 매일을 설계합니다. </div> 
     </div>
     </div>
