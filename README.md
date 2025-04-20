@@ -38,5 +38,14 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=Sojeong0430&bg_color=180,000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sojeong0430&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
+        <div>
+                <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 💻  Project </h2> <br>
+        </div>
     </div>
+
+|프로젝트명| 설명 |역할|
+|:---|:---|:---|
+|[Smoker](https://github.com/sssmoker)|UMC 7기 데모데이|Backend|
+|[흑백 야식가](https://github.com/UMC-HKT-Team-R)|UMC 7기 해커톤|Backend|
+|[Review in class](https://github.com/DS-UMC-7th/UMC-7th-TEAM-WEB2-BE)|UMC DSWU 미니 프로젝트|BackEnd|
     
