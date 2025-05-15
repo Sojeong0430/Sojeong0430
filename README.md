@@ -26,12 +26,6 @@
           <br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           </div>
     </div>
-    <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://honeysuckle-foxglove-71c.notion.site/1c3f97d2df3f806482b7ff82b8e97bec?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://honeysuckle-foxglove-71c.notion.site/1c3f97d2df3f806482b7ff82b8e97bec?pvs=4"> </a>
-         <a href=https://iro-0.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://iro-0.tistory.com/"> </a>
-         <a href=mailto:dlthwjd1629@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dlthwjd1629@gmail.com"> </a>
-          </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
