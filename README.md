@@ -2,26 +2,22 @@
 
 ## 🌿 Hi, I'm SojeongLee 🌿
 > Passionate **Backend Developer** | **Spring Boot** Enthusiast 🚀  
-> I love **Figure Skating ⛸️** & Building Reliable Backend Systems 💻 & new challenge
+> I love **Figure Skating ⛸️** & Building **Reliable Backend Systems** 💻 & new challenge
 > 
-> I truly believe great software is built not just by individuals, but by **collaborative teams**.  
-> I’m always eager to learn from others, share knowledge openly, and work together to overcome challenges.  
-> If you value communication, continuous improvement, and a positive team spirit,  
-> let’s connect and build something meaningful — because teamwork makes the dream work! 🤝 
+> Great software is built by collaborative teams. I value open communication, continuous learning, and teamwork. Let’s connect and create something meaningful together! 🤝
 </div>
 
 ## 📌 Activity & Certificate
+> ### **Kakao x groom 9oormthonUNIV 4th**
+> 대학생 연합 개발 동아리  
+> 2025.03 - ing
 
 > ### **University Make Us Challenge (UMC)**
 > 대학생 연합 개발 동아리  
 > 2024.09 - ing
 > - 9th 운영진 **Spring Boot 파트장**
-> - 7,8th **Spring Boot 파트원**
-
-> ### **Kakao x groom 9oormthonUNIV 4th**
-> 대학생 연합 개발 동아리  
-> 2025.03 - ing
-> - **백엔드 미르미**
+> - 8th **Spring Boot 파트원**
+> - 7th **Spring Boot 파트원**
 
 > ### **SQLD**
 > 2025.06
