@@ -2,7 +2,7 @@
 
 ## 🌿 Hi, I'm SojeongLee 🌿
 > Passionate **Backend Developer** | **Spring Boot** Enthusiast 🚀  
-> I love **Figure Skating ⛸️** & Building Reliable Backend Systems 💻
+> I love **Figure Skating ⛸️** & Building Reliable Backend Systems 💻 & new challenge
 > 
 > I truly believe great software is built not just by individuals, but by **collaborative teams**.  
 > I’m always eager to learn from others, share knowledge openly, and work together to overcome challenges.  
