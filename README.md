@@ -9,7 +9,7 @@
 
 ## 📌 Activity & Certificate
 > ### **Kakao x groom 9oormthonUNIV 4th**
-> 대학생 연합 개발 동아리  
+> 전국 대학 IT 연합 동아리
 > 2025.03 - ing
 
 > ### **University Make Us Challenge (UMC)**
