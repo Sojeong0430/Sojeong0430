@@ -12,7 +12,7 @@
 > ### **University Make Us Challenge (UMC)**
 > 대학생 연합 개발 동아리  
 > 2024.09 - ing
-> - 9th 운영진 **Spring Boot 파트장**
+> - 9th 덕성여대 운영진 **Spring Boot 파트장**
 > - 8th **Spring Boot 파트원**
 > - 7th **Spring Boot 파트원**
 
