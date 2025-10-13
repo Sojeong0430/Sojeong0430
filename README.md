@@ -2,7 +2,6 @@
 
 ## 🌿 Hi, I'm SojeongLee 🌿
 > Passionate **Backend Developer** | **Spring Boot** Enthusiast 🚀  
-> I love **Figure Skating ⛸️** & Building **Reliable Backend Systems** 💻 & **new challenge**
 > 
 > 
 </div>
