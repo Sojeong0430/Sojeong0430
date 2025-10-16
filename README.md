@@ -59,7 +59,3 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 </p>
 
-## 📌 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sojeong0430&theme=white" height="180px">
-</p
