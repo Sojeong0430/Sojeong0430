@@ -7,7 +7,7 @@
 </div>
 
 
-## 📌 Activity & Certificate
+## 📌 Activity & Prize
 
 > ### **University Make Us Challenge (UMC)**
 > 대학생 연합 개발 동아리  
