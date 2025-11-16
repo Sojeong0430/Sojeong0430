@@ -1,7 +1,7 @@
 <div>
 
 ## 🌿 Hi, I'm SojeongLee 🌿
-> Passionate **Backend Developer** | **Spring Boot** Enthusiast 🚀  
+> Passionate **Backend Developer** | **Spring Boot** Enthusiast 
 > 
 > 
 </div>
